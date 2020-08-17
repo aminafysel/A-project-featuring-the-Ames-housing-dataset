@@ -15,6 +15,6 @@ Following are the steps that I took to build a XGBoost regression model to predi
  7. Fitting the model
  8. Prediction using test data
  
-I prepared a submission file containing the predicted prices of the test data set provided and made in to the 2163th position(top 42%) on the leaderboard on my first submission and got a score of 0.13662
+I prepared a submission file containing the predicted prices of the test data set provided and made in to the 1490th position(top 28%) on the leaderboard on my first submission and got a score of 0.13662
  
  
